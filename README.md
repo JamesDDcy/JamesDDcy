@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-- 👨‍💻 All of my projects are available <a href="https://portfolio-jamesddcys-projects.vercel.app/" target="_blank">here</a><br>
+- 👨‍💻 All of my projects are available <a href="https://jamesddcy.web.app/" target="_blank">here</a><br>
 - 📫 Contact me: jamesdaniel.dcy@gmail.com
 
 <h3 align="left">Connect with me:</h3>
